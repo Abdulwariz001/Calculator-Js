@@ -72,9 +72,9 @@ function sub(){
 }
 
 
-function doublezero(){
+function percent(){
 
-    input1.value += "00"
+    input1.value += "%"
 }
 
 
